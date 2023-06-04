@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Md. Pekul Hossain.
 #### I am a  Beginner Programmer
 
-Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and  I Spend most of time coding.
+Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and I always try to learn more.
 
 Skills: HTML/ CSS/ JS / HTML / CSS/BOOTSTRAP/SQL
 
