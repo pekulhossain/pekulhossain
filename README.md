@@ -1,10 +1,9 @@
 ![I am a  Beginner Programmer](https://github.com/pekulhossain/pekulhossain/blob/main/final.jpg)
 ### Hi there 👋, My name is Md. Pekul Hossain.
-🙂 #### I am a  Beginner Programmer </br>
-🏠 <h3>Living: </h3> Fatullah, Narayangonj, Dhaka, Bangladesh. </br>
-👨‍🏫  <h>About Me</h3>
-Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and I always try to learn more.
-
+🙂 #### I am a  Beginner Programmer
+🏠 &nbsp; Living: Fatullah, Narayangonj, Dhaka, Bangladesh.
+### 👨‍🏫 &nbsp; About Me
+<p align="justify">Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and I always try to learn more.</
 <b> Skills Details:</b> 
 - 👉 HTML
 - 👉 CSS
