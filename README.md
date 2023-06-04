@@ -5,13 +5,13 @@
 Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and I always try to learn more.
 
 <b> Skills Details:</b> 
-👉 HTML
-👉 CSS
-👉 JS 
-👉 HTML 
-👉 CSS
-👉 BOOTSTRAP
-👉 SQL
+- 👉 HTML
+- 👉 CSS
+- 👉 JS 
+- 👉 HTML 
+- 👉 CSS
+- 👉 BOOTSTRAP
+- 👉 SQL
 
 - 🔭 I’m currently working on Front End Programming. 
 - 🌱 I’m currently learning Javascript 
