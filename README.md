@@ -6,7 +6,7 @@ Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Departm
 
 Skills: HTML/ CSS/ JS / HTML / CSS/BOOTSTRAP/SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Front End Programming. 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Git Hub 
 - 💬 Ask me about #HTML,CSS,BOOTSTRAP,JAVASCRIPT 
