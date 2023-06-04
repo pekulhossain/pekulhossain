@@ -3,11 +3,11 @@
  #### I am a  Beginner Programmer <br />
 🏠 &nbsp; <b>Living:</b> Fatullah, Narayangonj, Dhaka, Bangladesh.<br />
 ### 👨‍🏫 &nbsp; About Me
-<p align="justify">Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and I always try to learn more.</
+<p align="justify">Hello this is pekul , I am working in panam Group as a Sr. Officer in IT Department. I want to be a Full Stack Web Developer and I always try to learn more.</p> <br />
 <b> Skills Details: </b> <br />
-- 👉 HTML
-- 👉 CSS
-- 👉 JS 
+ul 👉 HTML
+ul 👉 CSS
+ul 👉 JS 
 - 👉 HTML 
 - 👉 CSS
 - 👉 BOOTSTRAP
