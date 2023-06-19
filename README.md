@@ -1,4 +1,4 @@
-![I am a  Beginner Programmer](https://github.com/pekulhossain/calculator/blob/main/PEKUL.png)
+![I am a  Beginner Programmer](https://github.com/pekulhossain/calculator/blob/main/pekulFinal.jpg)
 ### Hi there 👋, My name is Md. Pekul Hossain.<br />
  #### I am a  Beginner Programmer <br />
 🏠 &nbsp; <b>Living:</b> Fatullah, Narayangonj, Dhaka, Bangladesh.<br />
